@@ -26,7 +26,7 @@ import type {
   CommonEventHandler,
   MobileConfig,
 } from './interface';
-import { BuildInPlacements } from './interface';
+import type { BuildInPlacements } from './interface';
 
 function noop() {}
 
