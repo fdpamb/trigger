@@ -20,11 +20,12 @@ Thumbs.db
 *.pyo
 node_modules
 .cache
-#*.css
+*.css
 build
-#lib
-#es
+lib
+es
 coverage
+dist
 yarn.lock
 package-lock.json
 
