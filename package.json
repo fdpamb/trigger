@@ -42,13 +42,13 @@
   },
   "devDependencies": {
     "@rc-component/father-plugin": "^1.1.0",
-    "@testing-library/jest-dom": "^6.4.6",
+    "@testing-library/jest-dom": "^6.5.0",
     "@testing-library/react": "^14.3.1",
     "@types/jest": "^29.5.12",
     "@types/react": "^17.0.80",
     "@types/react-dom": "^18.3.0",
     "cross-env": "^7.0.3",
-    "dumi": "^2.4.7",
+    "dumi": "^2.4.9",
     "eslint": "^8.57.0",
     "eslint-plugin-unicorn": "^55.0.0",
     "father": "^4.5.0",
@@ -61,7 +61,7 @@
     "typescript": "^5.5.3"
   },
   "dependencies": {
-    "@babel/runtime": "^7.25.0",
+    "@babel/runtime": "^7.25.6",
     "classnames": "^2.5.1",
     "rc-align": "^4.0.15",
     "rc-motion": "^2.9.2",
