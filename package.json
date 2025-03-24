@@ -41,7 +41,7 @@
     "prepare": "npm run compile"
   },
   "devDependencies": {
-    "@rc-component/father-plugin": "^2.0.3",
+    "@rc-component/father-plugin": "^2.0.4",
     "@rc-component/np": "^1.0.3",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^14.3.1",
@@ -58,10 +58,10 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "regenerator-runtime": "^0.14.1",
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.2"
   },
   "dependencies": {
-    "@babel/runtime": "^7.26.9",
+    "@babel/runtime": "^7.26.10",
     "ajv": "^8.17.1",
     "ajv-keywords": "^5.1.0",
     "classnames": "^2.5.1",
