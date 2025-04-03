@@ -18,5 +18,6 @@ module.exports = {
     'jsx-a11y/label-has-associated-control': 0,
     '@typescript-eslint/no-explicit-any': 0,
     '@typescript-eslint/no-unused-vars': 0,
+    '@typescript-eslint/consistent-type-exports': 0,
   },
 };
